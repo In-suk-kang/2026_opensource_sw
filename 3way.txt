@@ -1,2 +1,1 @@
-0402 3way test
-test
+0402 3way
